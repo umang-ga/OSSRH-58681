@@ -12,7 +12,7 @@
 	<!--start Configured Tags for uploading artifact on Mvn Central -->
 	<name>Calculation test</name>
 	<description>This is sample test for calculation</description>
-	<!-- <url>http://github.com/umang-ga/OSSRH-58681</url> -->
+	<!-- <url>http://github.com/umang-ga/calculate</url> -->
 
 	<licenses>
 		<license>
@@ -31,9 +31,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/umang-ga/OSSRH-58681.git</connection>
-		<developerConnection>scm:git:ssh://github.com:umang-ga/OSSRH-58681.git</developerConnection>
-		<url>http://github.com/umang-ga/OSSRH-58681</url>
+		<connection>scm:git:git://github.com/umang-ga/calculate.git</connection>
+		<developerConnection>scm:git:ssh://github.com:umang-ga/calculate.git</developerConnection>
+		<url>http://github.com/umang-ga/calculate</url>
 	</scm>
 
 	<distributionManagement>
